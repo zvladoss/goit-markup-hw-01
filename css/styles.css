@@ -1,0 +1,39 @@
+:root {
+  /**
+  |============================
+  | Colors
+  |============================
+*/
+
+  --iris: #4D5AE5;
+  --ocean: #404BBF;
+  --navy-blue: #2E2F42;
+  --slate: #434455;
+  --light-slate: #8E8F99;
+  --cornflower: #E7E9FC;
+  --cloud: #F4F4FD;
+  --navy-blue-modal: rgba(46, 47, 66, 0.40);
+  --grey: rgba(46, 47, 66, 0.7);
+  --green: #31D0AA;
+  --white: #ffffff;
+  --dairy: #FCFCFC;
+
+  /**
+  |============================
+  | GRID'S
+  |============================
+*/
+
+  --indent-x: 24px;
+  --indent-mob: 72px;
+  --indent-y: ;
+  --list-items-sum: 3;
+  --tab-list-items-sum: 2;
+
+
+/**
+  |============================
+  | 
+  |============================
+*/
+}
